@@ -7,6 +7,7 @@ This project was bootstrapped with React Jsx and CSS
 
 React createContext to verify user login status before displaying data 
 
+## React useEffect and fetchData for API and connection to the database
 
 ### `npm start`
 
